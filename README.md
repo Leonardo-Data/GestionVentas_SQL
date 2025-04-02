@@ -13,7 +13,6 @@ realizando consultas avanzadas y aplicando buenas prácticas en la organización
   - Ventas
   - DetalleVentas
 - Inserción de registros en cada tabla.
-- 
 - Consultas SQL avanzadas utilizando:
   - JOIN
   - SUM
